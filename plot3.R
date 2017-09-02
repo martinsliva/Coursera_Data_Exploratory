@@ -1,3 +1,11 @@
+##################
+##################  This analysis is based on data from the National Emissions Inventory (NEI)
+##################  The chart answers to question: 
+##################  Of the four types of sources, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? 
+##################
+
+
+
 library(ggplot2)
 library(dplyr)
 
@@ -14,7 +22,7 @@ if (!(file.exists("Source_Classification_Code.rds") && file.exists("summarySCC_P
 
 ### Reading data 
 NEI <- readRDS("summarySCC_PM25.rds")
-SCC <- readRDS("Source_Classification_Code.rds")
+
 
 ### Creating subset of data for Baltimore City
 pmBal<-subset(NEI,fips=="24510")

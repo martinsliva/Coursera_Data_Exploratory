@@ -1,3 +1,10 @@
+##################
+##################  This analysis is based on data from the National Emissions Inventory (NEI)
+##################  The chart answers to question: 
+##################  How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
+##################
+
+
 
 
 #### Checking if rds files exists in working directory. If not than download and unzip them 

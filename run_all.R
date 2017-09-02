@@ -1,0 +1,6 @@
+source('C:/Users/Martin Slíva/Dropbox/datascience/Exploratory Data Analysis/Week4/Data_Exloratory_project/plot1.R', echo=TRUE)
+source('C:/Users/Martin Slíva/Dropbox/datascience/Exploratory Data Analysis/Week4/Data_Exloratory_project/plot2.R', echo=TRUE)
+source('C:/Users/Martin Slíva/Dropbox/datascience/Exploratory Data Analysis/Week4/Data_Exloratory_project/plot3.R', echo=TRUE)
+source('C:/Users/Martin Slíva/Dropbox/datascience/Exploratory Data Analysis/Week4/Data_Exloratory_project/plot4.R', echo=TRUE)
+source('C:/Users/Martin Slíva/Dropbox/datascience/Exploratory Data Analysis/Week4/Data_Exloratory_project/plot5.R', echo=TRUE)
+source('C:/Users/Martin Slíva/Dropbox/datascience/Exploratory Data Analysis/Week4/Data_Exloratory_project/plot6.R', echo=TRUE)
